@@ -1,0 +1,6 @@
+[submodule "bento"]
+	path = bento
+	url = https://github.com/chef/bento.git
+[submodule "ansible-isucon"]
+	path = ansible-isucon
+	url = https://github.com/matsuu/ansible-isucon.git
